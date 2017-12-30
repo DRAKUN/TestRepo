@@ -1,0 +1,76 @@
+
+https://app.pluralsight.com/library/courses/pmp-project-initiation
+
+https://app.pluralsight.com/library/courses/pmp-introduction-project-management-pmp-exam
+https://app.pluralsight.com/library/courses/pmp-organizational-influences-project-management-lifecycle
+https://app.pluralsight.com/library/courses/pmp-project-integration-management
+https://app.pluralsight.com/library/courses/pmp-project-scope-management
+https://app.pluralsight.com/library/courses/pmp-project-time-management
+https://app.pluralsight.com/library/courses/pmp-project-schedule-management
+https://app.pluralsight.com/library/courses/pmp-project-cost-management
+https://app.pluralsight.com/library/courses/pmp-project-quality-management
+https://app.pluralsight.com/library/courses/pmp-project-human-resource-management
+https://app.pluralsight.com/library/courses/pmp-project-communications-management
+https://app.pluralsight.com/library/courses/pmp-project-risk-management
+https://app.pluralsight.com/library/courses/pmp-project-procurement-management
+https://app.pluralsight.com/library/courses/pmp-project-stakeholder-management
+https://app.pluralsight.com/library/courses/pmp-earning-retaining-certification
+
+
+PBA
+https://app.pluralsight.com/library/courses/business-analysis-needs-assessment-introduction
+https://app.pluralsight.com/library/courses/business-analysis-planning
+https://app.pluralsight.com/library/courses/discovering-business-analysis-information-through-elicitation
+https://app.pluralsight.com/library/courses/conducting-business-analysis-developing-requirements
+https://app.pluralsight.com/library/courses/monitoring-requirements-evaluating-business-analysis-solutions
+
+AWS Certified DevOps Engineer
+https://app.pluralsight.com/library/courses/continuous-delivery-automation-aws-certified-devops-engineer
+https://app.pluralsight.com/library/courses/monitoring-metrics-logging-aws-certified-devops-engineer
+https://app.pluralsight.com/library/courses/security-governance-validation-aws-certified-devops-engineer
+https://app.pluralsight.com/library/courses/high-availability-elasticity-aws-certified-devops-engineer
+
+
+LFCS and RHCSA
+https://app.pluralsight.com/library/courses/lfcs-red-hat-7-essentials
+https://app.pluralsight.com/library/courses/lfcs-linux-operation-essentials
+https://app.pluralsight.com/library/courses/lfcs-linux-user-group-management
+https://app.pluralsight.com/library/courses/lfcs-linux-storage-management
+https://app.pluralsight.com/library/courses/lfcs-linux-networking
+https://app.pluralsight.com/library/courses/lfcs-linux-service-management
+https://app.pluralsight.com/library/courses/lfcs-linux-virtualization-management
+
+
+CEH 312-50
+https://app.pluralsight.com/library/courses/ethical-hacking-understanding
+https://app.pluralsight.com/library/courses/ethical-hacking-reconnaissance-footprinting
+https://app.pluralsight.com/library/courses/ethical-hacking-scanning-networks
+https://app.pluralsight.com/library/courses/ethical-hacking-enumeration
+https://app.pluralsight.com/library/courses/ethical-hacking-system-hacking
+https://app.pluralsight.com/library/courses/ethical-hacking-malware-threats
+https://app.pluralsight.com/library/courses/ethical-hacking-sniffing
+https://app.pluralsight.com/library/courses/ethical-hacking-buffer-overflow
+https://app.pluralsight.com/library/courses/ethical-hacking-social-engineering
+https://app.pluralsight.com/library/courses/ethical-hacking-denial-service
+https://app.pluralsight.com/library/courses/ethical-hacking-session-hijacking
+https://app.pluralsight.com/library/courses/ethical-hacking-web-servers
+https://app.pluralsight.com/library/courses/ethical-hacking-web-applications
+https://app.pluralsight.com/library/courses/ethical-hacking-sql-injection
+https://app.pluralsight.com/library/courses/ethical-hacking-wireless-networks
+https://app.pluralsight.com/library/courses/ethical-hacking-mobile-platforms
+https://app.pluralsight.com/library/courses/ethical-hacking-evading-ids-firewalls-honeypots
+https://app.pluralsight.com/library/courses/ethical-hacking-cloud-computing
+https://app.pluralsight.com/library/courses/ethical-hacking-cryptography
+https://app.pluralsight.com/library/courses/sscp2015-cryptography
+https://app.pluralsight.com/library/courses/ethical-hacking-penetration-testing
+
+"Docker Deep Dive" 
+"Docker and Containers - The Big Picture"            
+nohup gdrive upload --recursive --parent 1vXSdsjH1SyHylnNipfKpE0N0hiHj3lxj "Getting Started with Docker" &
+nohup gdrive upload --recursive --parent 1vXSdsjH1SyHylnNipfKpE0N0hiHj3lxj "Integrating Docker with DevOps Automated Workflows" &
+nohup gdrive upload --recursive --parent 1vXSdsjH1SyHylnNipfKpE0N0hiHj3lxj "Docker in Production Using Amazon Web Services" &
+nohup gdrive upload --recursive --parent 1vXSdsjH1SyHylnNipfKpE0N0hiHj3lxj "Docker Swarm - Native Docker Clustering" &
+
+
+
+nohup gdrive sync upload VIDEO 197-Dp2I_KI5770QCyejXSfDgoxwdsEeg &
